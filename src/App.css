@@ -1,0 +1,7 @@
+.Box {
+  margin-left: 50px;
+  padding: 200px;
+  display: flex;
+  column-count: 2;
+  flex-direction: column nowrap;
+}

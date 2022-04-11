@@ -1,0 +1,57 @@
+.Card {
+  width: 300px;
+  border-style: inset;
+  padding-top: 30px;
+  padding-left: 70px;
+  padding-right: 20px;
+  margin-left: 30px;
+  background-color: #f6f0f0;
+}
+
+.Logo {
+  display: inline-block;
+  height: 50px;
+}
+
+.We {
+  margin-top: 15px;
+  font-size: 34px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #f8bfbf;
+}
+
+.Coming {
+  font-size: 34px;
+  font-weight: 400;
+  font-family: Tahoma, sans-serif;
+  width: 210px;
+  font-stretch: ultra-expanded;
+}
+
+.Text {
+  width: 250px;
+  padding-top: 20px;
+  font-size: xx-small;
+  font-family: Tahoma, sans-serif;
+  color: #f8bfbf;
+  line-height: 20px;
+}
+
+form {
+  /* flex-direction: row; */
+  font-size: xx-small;
+  padding-top: 15px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+input {
+  padding: 3px;
+  font-size: x-small;
+  border-right: none;
+  border-color: #e7afaf;
+  border-width: 1px;
+  border-color: #f8bfbf;
+  border-top-left-radius: 25%;
+  border-bottom-left-radius: 25%;
+  color: #f8bfbf;
+}
